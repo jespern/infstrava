@@ -1,0 +1,4 @@
+influxdb==5.2.1
+toml==0.10.0
+requests==2.21.0
+stravalib==0.10.2
